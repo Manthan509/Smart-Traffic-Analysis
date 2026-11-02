@@ -5,3 +5,4 @@ pandas
 numpy
 pillow
 imageio-ffmpeg
+matplotlib
